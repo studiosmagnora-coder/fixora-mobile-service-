@@ -1,0 +1,6 @@
+{
+  "name": "FIXORA MOBILES",
+  "description": "Expert doorstep smartphone repair in Hyderabad and remote mobile support across India. Screen replacement, battery care, motherboard repair, and online troubleshooting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
